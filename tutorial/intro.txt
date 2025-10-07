@@ -1,0 +1,24 @@
+NUMERICAL PYTHON
+this is a base of data science, deep learning, pytorch, pandas.
+
+prerequisites:-
+python
+jupyter notebook but i am doing on vscode hehehehe!!!!
+
+
+array/vector [1,2,3,4,5,6]
+matrix [[1,2,3],[4,5,6]]->ops heavy->heavy hardware
+
+what language?
+assembly hard to code
+c hard to code 
+cpp numpy true implementation for numpy
+api exposed for python(interface)
+
+resources:
+chai aur code
+brocode
+
+then did a project:ascii art gen from images
+
+we cannot read jpg/png/other formats files directly in numpy  it can only read raw binary or text based numerical data.->opencv/matplotlib/pillow
