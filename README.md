@@ -11,11 +11,11 @@ This program transforms regular images (.jpg, .png) into text-based art using AS
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
         <h3>Input Image</h3>
-        <img src="project/op&ip/sample_2.jpeg" width="400">
+        <img src="project/op&ip/sample_2.jpeg" width="200">
     </div>
     <div style="flex: 1;">
         <h3>Output ASCII Art</h3>
-        <img src="project/op&ip/image.png" width="400" >
+        <img src="project/op&ip/image.png" width="200" >
     </div>
 </div>
 
