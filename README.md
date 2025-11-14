@@ -27,8 +27,12 @@ numpy/
 ├── project/
 │   ├── ascii_art_generator.py
 │   └── op&ip/
+│       ├── output_art.txt
+│       ├── output_art_1.txt
+│       ├── output_art_2.txt
+│       ├── sample.jpeg
 │       ├── sample_1.jpeg
-│       └── output_art_1.txt
+│       └── sample_2.jpeg
 │
 └── README.md
 ```
